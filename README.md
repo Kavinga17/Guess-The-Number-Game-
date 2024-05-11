@@ -1,2 +1,4 @@
-# Guess-The-Number-Game-
-Guess The Number Game  (KOTLIN Language )
+# Guess the Number - Android Development
+A simple Guess the Number Android game implemented using Kotlin for academic purposes.
+
+
